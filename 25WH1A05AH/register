@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>register page</title>
+<style>
+    .did{
+     text-align:right
+    }
+    .did a{
+        margin-right:"20px"
+    }
+    h1{
+        text-align: center;
+    }
+    form {
+         width: 300px;
+            margin: 50px auto;
+     text-align: left;
+
+    }
+</style>
+    </head>
+    <body>
+        <nav class="did">
+            <a href="home.html">home</a>
+             <a href="login.html">login</a>
+              <a href="catalog.html">catalog</a>
+        </nav>
+         <h1>Registration</h1>
+        <form >
+       
+        <label >First Name:</label><br>
+        <input type="text"><br><br>
+        <label >last Name:</label><br>
+        <input type="text"><br><br>
+        <label ></label>Email Id:</label><br>
+        <input type="text"><br><br>
+        <label >password</label><br>
+        <input type="text"><br><br>
+        <button type="submit">submit</button>
+</form>
+</body>
+</html>
