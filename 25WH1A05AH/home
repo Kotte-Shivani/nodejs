@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>website creation</title>
+    </head>
+    <body >
+        <h1 style="color:black; text-align:center; font-size:50px;">BOOK ERA</h1>
+        <nav>
+        <div style="text-align:right;  font-size:30px;">
+        <a href="login.html" style="color:black;" >login </a>
+        <a href="register.html" style="color:black;" >registration </a>
+        <a href="catalog.html" style="color:black;">catalog </a>
+        </div>
+        </nav>
+        <p style="font-size:20px; color:red;">products</p>
+        <p>In this web application different products are available.<br>
+        you have to choose your location <br>
+    According to your location we place your orders <br></p>
+    <img src="homei.jpeg" width="200;" height="200">
+    </body>
+</html>
