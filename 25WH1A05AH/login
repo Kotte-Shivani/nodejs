@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>login page</title>
+    </head>
+    <body style="text-align:center">
+        <form style="text-align: center;">
+            <nav>
+                <div style="text-align:right;  font-size:30px;">
+        <a href="home.html" style="color:black;" >home</a>
+        <a href="register.html" style="color:black;" >registration </a>
+        <a href="catalog.html" style="color:black;">catalog </a>
+        </div>
+            </nav>
+            <br><br>
+      <h1>Login</h1>
+      <label>UserName:</label>
+      <input type="text" placeholder="username"><br><br>
+      <label>Password:</label>
+      <input type="password" placeholder="password"><br><br>
+      <button type="submit">Login</button>
+      </form>
+    </body>
+</html>
